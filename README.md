@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaskell182
-- 👀 I’m interested in The Lord of the Rings, computers, hunting, and my cats 
+- 👀 
 - 🌱 I’m currently learning cyber security at Keene State College
 - 💞️ I’m looking to collaborate on just about anything, I just want to get some experience with different programming 
 - 📫 Just shoot me a message!
