@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @chaskell182
-- 👀 
-- 🌱 I’m currently learning cyber security at Keene State College
-- 💞️ I’m looking to collaborate on just about anything, I just want to get some experience with different programming 
-- 📫 Just shoot me a message!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to climb cell towers for a living 
+
 
 <!---
 chaskell182/chaskell182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
